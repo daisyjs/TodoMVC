@@ -202,7 +202,7 @@
 	},
 	"daisy": {
 		"name": "Daisy",
-		"description": "parser and virtual-dom based mvvm frameworl",
+		"description": "Parser and virtual-dom based mvvm frameworl",
 		"homepage": "daisyjs.org",
 		"examples": [{
 			"name": "Example",
