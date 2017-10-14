@@ -200,6 +200,43 @@
 			}]
 		}]
 	},
+	"daisy": {
+		"name": "daisy.js",
+		"description": "HMVC and the component-based architecture for building client, server or hybrid applications",
+		"homepage": "atmajs.com",
+		"examples": [{
+			"name": "Example",
+			"url": "examples/atmajs/"
+		}],
+		"link_groups": [{
+			"heading": "Official Resources",
+			"links": [{
+				"name": "Get Started",
+				"url": "http://atmajs.com/get/github"
+			}, {
+				"name": "Atma.js on GitHub",
+				"url": "https://github.com/atmajs"
+			}, {
+				"name": "Atma.js DevTool",
+				"url": "https://chrome.google.com/webstore/detail/atmajs-devtool/bpaepkmcmoablpdahclhdceapndfhdpo"
+			}]
+		}, {
+			"heading": "Overview",
+			"links": [{
+				"name": "Libraries",
+				"url": "https://github.com/tastejs/todomvc/blob/gh-pages/examples/atmajs/readme.md"
+			}]
+		}, {
+			"heading": "Community",
+			"links": [{
+				"name": "Atma.js on Stack Overflow",
+				"url": "http://stackoverflow.com/questions/tagged/atmajs"
+			}, {
+				"name": "Mailing list on Google Groups",
+				"url": "https://groups.google.com/forum/?fromgroups#!forum/atmajs"
+			}]
+		}]
+	},
 	"aurelia": {
 		"name": "Aurelia",
 		"description": "Aurelia is a next generation JavaScript client framework that leverages simple conventions to empower your creativity.",
